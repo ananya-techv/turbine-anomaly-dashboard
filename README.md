@@ -87,15 +87,3 @@ signal in an interview than pretending the model is perfect:
   simplicity; a production version would train once and score new
   points incrementally.
 
-## Resume bullet points (ready to use)
-
-- Built a real-time sensor anomaly detection dashboard simulating
-  turbine supervisory instrumentation (TSI) data, using Python,
-  Pandas, and Dash/Plotly.
-- Implemented and compared two anomaly detection approaches — a
-  trailing rolling z-score method and an Isolation Forest model — to
-  flag sensor faults (spikes, sustained drift, stuck sensors) in
-  streaming time-series data.
-- Designed a synthetic data generator producing realistic sensor
-  noise, drift, and fault patterns with ground-truth labels to
-  evaluate detector precision/recall/F1.
