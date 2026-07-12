@@ -85,5 +85,6 @@ signal in an interview than pretending the model is perfect:
   conditions) than this model captures.
 - Isolation Forest is refit on the growing data window each tick for
   simplicity; a production version would train once and score new
-  points incrementally.
+  points incrementallly.
+  
 
